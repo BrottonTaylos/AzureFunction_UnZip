@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.python_packages/
+.pytest_cache/
+local.settings.json
+# Never commit data: the archives handled here contain PII.
+*.zip

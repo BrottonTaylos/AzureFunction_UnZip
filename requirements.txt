@@ -1,0 +1,5 @@
+azure-functions>=1.21
+azure-functions-durable>=1.2.10
+azure-identity>=1.19
+azure-storage-blob>=12.24
+requests>=2.32
