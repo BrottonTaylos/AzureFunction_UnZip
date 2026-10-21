@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "SOURCE_BLOB_ACCOUNT_URL": "https://<storage-account>.blob.core.windows.net",
+    "SHAREPOINT_SITE_HOSTNAME": "<tenant>.sharepoint.com",
+    "SHAREPOINT_SITE_PATH": "sites/<site-name>",
+    "SHAREPOINT_LIBRARY": "<library display name>",
+    "MAX_PARALLEL_GROUPS": "8",
+    "ZIP_MAX_ENTRIES": "200000",
+    "ZIP_MAX_TOTAL_BYTES": "2199023255552",
+    "ZIP_MAX_RATIO": "1000"
+  }
+}
